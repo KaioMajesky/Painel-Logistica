@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📦 Painel de Chamadas - Logística (Picking)
 
-# Run and deploy your AI Studio app
+## 📝 Sobre o Projeto
+Este sistema foi desenvolvido para otimizar o processo de separação de mercadorias (picking) em um centro de distribuição. A solução substitui o controle manual/papel por um painel digital, permitindo a organização e visualização em tempo real.
 
-This contains everything you need to run your app locally.
+## 🛠️ Tecnologias Utilizadas
+HTML5, CSS3 (Flexbox/Grid)
+JavaScript (Manipulação de DOM e estados)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1L3ymq5qEwXvCOHXoiGGZ9armWME12E-o
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💡 Problema Resolvido
+No cenário anterior, a gestão das listas de separação era feita de forma analógica, o que gerava atrasos e falta de visibilidade do progresso. Com o painel, a equipe de planejamento ganhou agilidade na distribuição das tarefas.
