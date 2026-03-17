@@ -1,11 +1,10 @@
-# 📦 Painel de Chamadas - Logística Carone
+# 📦 Painel de Logística
 
-Sistema de gestão de picking desenvolvido para otimizar a separação de mercadorias.
+Sistema de gestão desenvolvido para otimizar a separação de mercadorias.
 
 ## 🛠️ Tecnologias
-* **React + Vite** (Performance e modernidade)
-* **TypeScript** (Segurança e tipagem de dados)
-* **Tailwind CSS** (Estilização responsiva)
+* **React + Vite** 
+* **TypeScript** 
+* **Tailwind CSS** 
 
-## 💡 Diferencial
 O projeto separa as telas por setores (**Açougue, Cortes, Separação e Impressões**), permitindo um fluxo de trabalho organizado e escalável.
